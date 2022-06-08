@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/EnglishSelection"
+        android:orderInCategory="0"
+        android:title="@string/English" />
+    <item
+        android:id="@+id/ChineseSelection"
+        android:orderInCategory="1"
+        android:title="@string/Chinese" />
+
+    <item
+        android:id="@+id/MalaySelection"
+        android:orderInCategory="2"
+        android:title="@string/Malay" />
+
+    <item
+        android:id="@+id/TamilSelection"
+        android:orderInCategory="3"
+        android:title="@string/Tamil" />
+</menu>

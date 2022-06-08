@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">P06</string>
+    <string name="OCBC">OCBC</string>
+    <string name="DBS">DBS</string>
+    <string name="UOB">UOB</string>
+
+    <string name="English">English</string>
+    <string name="Chinese">中文</string>
+    <string name="Malay">Melayu</string>
+    <string name="Tamil">தமிழ்</string>
+
+    <string name="DBS_Chinese">星展银行</string>
+    <string name="OCBC_Chinese">华侨银行</string>
+    <string name="UOB_Chinese">大华银行</string>
+
+    <string name="DBS_Malay">Bank Luar Negara Bersatu</string>
+    <string name="OCBC_Malay">Perbadanan Perbankan Cina Luar Negara</string>
+    <string name="UOB_Malay">Bank Pembangunan Singapura</string>
+
+    <string name="DBS_Tamil">யுனைடெட் ஓவர்சீஸ் வங்கி</string>
+    <string name="OCBC_Tamil">வெளிநாட்டு சீன வங்கி நிறுவனம்</string>
+    <string name="UOB_Tamil">சிங்கப்பூர் மேம்பாட்டு வங்கி</string>
+
+    <string name="error">error translation</string>
+
+    <string name="tel">tel: </string>
+
+
+    <string name="DBS_Link">https://www.dbs.com.sg</string>
+    <string name="OCBC_Link">https://www.ocbc.com</string>
+    <string name="UOB_Link">https://www.uob.com.sg</string>
+
+    <string name="DBS_Number">tel:18001111111</string>
+    <string name="OCBC_Number">tel:18003633333</string>
+    <string name="UOB_Number">tel:18003633333</string>
+
+    <string name="website">Website</string>
+    <string name="contactbank">Contact Bank</string>
+    <string name="togglefavorite">Toggle Favorite</string>
+
+    <string name="website_ch">网站</string>
+    <string name="contactbank_ch">联系银行</string>
+    <string name="togglefavorite_ch">切换收藏夹</string>
+
+    <string name="website_mly">laman web</string>
+    <string name="contactbank_mly">Hubungi Bank</string>
+    <string name="togglefavorite_mly">Togol Kegemaran</string>
+
+    <string name="website_tml">இணையதளம்</string>
+    <string name="contactbank_tml">வங்கியைத் தொடர்பு கொள்ளவும்</string>
+    <string name="togglefavorite_tml">பிடித்ததை நிலைமாற்று</string>
+</resources>
